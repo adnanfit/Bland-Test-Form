@@ -11,7 +11,7 @@ document
     };
 
     // Send data to webhook
-    fetch("https://hooks.zapier.com/hooks/catch/17171049/3j3x8x8/", {
+    fetch("https://hook.us2.make.com/42dwfe65fwzxqhi6gm3l4ik26a6acg7o", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
